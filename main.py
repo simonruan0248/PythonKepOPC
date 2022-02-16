@@ -20,6 +20,8 @@ for i in range(len(v)):
     (name, val, qual, time1) = v[i]
 print(type(val));
 print(type(v));
+
+time.sleep(0.2)
 time.sleep(0.2)
 
 
