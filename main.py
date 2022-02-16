@@ -21,5 +21,10 @@ for i in range(len(v)):
 print(type(val));
 print(type(v));
 time.sleep(0.2)
+time.sleep(0.2)
+time.sleep(0.2)
+time.sleep(0.2)
+time.sleep(0.2)
+
 
 #input('Press Enter to exit')
